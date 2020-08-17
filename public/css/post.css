@@ -1,0 +1,14 @@
+.pagination {
+    margin: 10px 50px;
+}
+
+#more {
+    display: none;
+}
+
+.card:hover {
+    padding: 10px;
+    box-shadow: 2px 11px 11px 2px rgb(172, 172, 172);
+    color: rgb(4, 4, 247);
+    box-sizing: content-box;
+}
